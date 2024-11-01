@@ -1,0 +1,14 @@
+idf_component_register(
+    SRCS
+        "libs/ModPlayer/src/Arpeggio.cpp"
+        "libs/ModPlayer/src/Module.cpp"
+        "libs/ModPlayer/src/Channel.cpp"
+        "libs/ModPlayer/src/CombinedEffect.cpp"
+        "libs/ModPlayer/src/SlideDown.cpp"
+        "libs/ModPlayer/src/SlideToNote.cpp"
+        "libs/ModPlayer/src/SlideUp.cpp"
+        "libs/ModPlayer/src/Vibrato.cpp"
+        "libs/ModPlayer/src/VolumeSlide.cpp"
+    INCLUDE_DIRS
+        "libs/ModPlayer/src"
+)

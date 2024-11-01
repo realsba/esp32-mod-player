@@ -1,0 +1,3 @@
+[submodule "libs/ModPlayer"]
+	path = libs/ModPlayer
+	url = https://github.com/realsba/ModPlayer

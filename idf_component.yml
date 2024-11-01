@@ -1,0 +1,7 @@
+version: "0.0.1"
+description: "ESP32 MOD Player"
+url: "https://github.com/realsba/esp32-mod-player"
+license: "MIT"
+dependencies:
+  idf:
+    version: "^5.4.0"
